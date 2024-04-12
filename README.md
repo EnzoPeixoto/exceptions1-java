@@ -1,1 +1,1 @@
-Aula sobre exceções em java
+Tratamentos de exceções em Java
